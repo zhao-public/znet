@@ -1,0 +1,15 @@
+D:\home\github\znet\src\ZNet.Data.MySql\bin\Debug\net7.0\ZNet.Data.MySql.deps.json
+D:\home\github\znet\src\ZNet.Data.MySql\bin\Debug\net7.0\ZNet.Data.MySql.dll
+D:\home\github\znet\src\ZNet.Data.MySql\bin\Debug\net7.0\ZNet.Data.MySql.pdb
+D:\home\github\znet\src\ZNet.Data.MySql\bin\Debug\net7.0\ZNet.Core.dll
+D:\home\github\znet\src\ZNet.Data.MySql\bin\Debug\net7.0\ZNet.Core.pdb
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.csproj.AssemblyReference.cache
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.csproj.CopyComplete
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.dll
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\refint\ZNet.Data.MySql.dll
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ZNet.Data.MySql.pdb
+D:\home\github\znet\src\ZNet.Data.MySql\obj\Debug\net7.0\ref\ZNet.Data.MySql.dll

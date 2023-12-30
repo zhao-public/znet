@@ -1,0 +1,11 @@
+D:\home\github\znet\src\ZNet.Event.Kafka\bin\Debug\net7.0\ZNet.Event.Kafka.deps.json
+D:\home\github\znet\src\ZNet.Event.Kafka\bin\Debug\net7.0\ZNet.Event.Kafka.dll
+D:\home\github\znet\src\ZNet.Event.Kafka\bin\Debug\net7.0\ZNet.Event.Kafka.pdb
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ZNet.Event.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ZNet.Event.Kafka.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ZNet.Event.Kafka.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ZNet.Event.Kafka.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ZNet.Event.Kafka.dll
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\refint\ZNet.Event.Kafka.dll
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ZNet.Event.Kafka.pdb
+D:\home\github\znet\src\ZNet.Event.Kafka\obj\Debug\net7.0\ref\ZNet.Event.Kafka.dll

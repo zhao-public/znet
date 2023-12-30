@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZNet.WebHost.props" />
+</Project>

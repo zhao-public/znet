@@ -1,0 +1,12 @@
+D:\home\github\znet\src\ZNet.Core\bin\Debug\net7.0\ZNet.Core.deps.json
+D:\home\github\znet\src\ZNet.Core\bin\Debug\net7.0\ZNet.Core.dll
+D:\home\github\znet\src\ZNet.Core\bin\Debug\net7.0\ZNet.Core.pdb
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.csproj.AssemblyReference.cache
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.dll
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\refint\ZNet.Core.dll
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ZNet.Core.pdb
+D:\home\github\znet\src\ZNet.Core\obj\Debug\net7.0\ref\ZNet.Core.dll

@@ -1,0 +1,11 @@
+D:\home\github\znet\src\ZNet.Data.SqlServer\bin\Debug\net7.0\ZNet.Data.SqlServer.deps.json
+D:\home\github\znet\src\ZNet.Data.SqlServer\bin\Debug\net7.0\ZNet.Data.SqlServer.dll
+D:\home\github\znet\src\ZNet.Data.SqlServer\bin\Debug\net7.0\ZNet.Data.SqlServer.pdb
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ZNet.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ZNet.Data.SqlServer.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ZNet.Data.SqlServer.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ZNet.Data.SqlServer.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ZNet.Data.SqlServer.dll
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\refint\ZNet.Data.SqlServer.dll
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ZNet.Data.SqlServer.pdb
+D:\home\github\znet\src\ZNet.Data.SqlServer\obj\Debug\net7.0\ref\ZNet.Data.SqlServer.dll

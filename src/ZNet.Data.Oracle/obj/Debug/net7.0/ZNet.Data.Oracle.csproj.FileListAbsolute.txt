@@ -1,0 +1,11 @@
+D:\home\github\znet\src\ZNet.Data.Oracle\bin\Debug\net7.0\ZNet.Data.Oracle.deps.json
+D:\home\github\znet\src\ZNet.Data.Oracle\bin\Debug\net7.0\ZNet.Data.Oracle.dll
+D:\home\github\znet\src\ZNet.Data.Oracle\bin\Debug\net7.0\ZNet.Data.Oracle.pdb
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ZNet.Data.Oracle.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ZNet.Data.Oracle.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ZNet.Data.Oracle.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ZNet.Data.Oracle.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ZNet.Data.Oracle.dll
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\refint\ZNet.Data.Oracle.dll
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ZNet.Data.Oracle.pdb
+D:\home\github\znet\src\ZNet.Data.Oracle\obj\Debug\net7.0\ref\ZNet.Data.Oracle.dll

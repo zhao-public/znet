@@ -1,0 +1,11 @@
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\bin\Debug\net7.0\ZNet.Json.Newtonsoft.deps.json
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\bin\Debug\net7.0\ZNet.Json.Newtonsoft.dll
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\bin\Debug\net7.0\ZNet.Json.Newtonsoft.pdb
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ZNet.Json.Newtonsoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ZNet.Json.Newtonsoft.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ZNet.Json.Newtonsoft.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ZNet.Json.Newtonsoft.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ZNet.Json.Newtonsoft.dll
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\refint\ZNet.Json.Newtonsoft.dll
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ZNet.Json.Newtonsoft.pdb
+D:\home\github\znet\src\ZNet.Json.Newtonsoft\obj\Debug\net7.0\ref\ZNet.Json.Newtonsoft.dll

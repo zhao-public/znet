@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7jdPjSVASJYZZCAxSwoYcPbIcaGcu8cFqjVoZm37aG7swCa0tpcT2Exh+Xas0NXbninPPk43xgD907jrJAu2g==",
+  "success": true,
+  "projectFilePath": "D:\\home\\github\\znet\\src\\ZNet.WebHost\\ZNet.WebHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhong\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

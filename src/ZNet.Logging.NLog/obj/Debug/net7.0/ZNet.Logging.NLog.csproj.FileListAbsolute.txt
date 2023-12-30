@@ -1,0 +1,15 @@
+D:\home\github\znet\src\ZNet.Logging.NLog\bin\Debug\net7.0\ZNet.Logging.NLog.deps.json
+D:\home\github\znet\src\ZNet.Logging.NLog\bin\Debug\net7.0\ZNet.Logging.NLog.dll
+D:\home\github\znet\src\ZNet.Logging.NLog\bin\Debug\net7.0\ZNet.Logging.NLog.pdb
+D:\home\github\znet\src\ZNet.Logging.NLog\bin\Debug\net7.0\ZNet.Core.dll
+D:\home\github\znet\src\ZNet.Logging.NLog\bin\Debug\net7.0\ZNet.Core.pdb
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.csproj.AssemblyReference.cache
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.AssemblyInfoInputs.cache
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.AssemblyInfo.cs
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.csproj.CoreCompileInputs.cache
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.csproj.CopyComplete
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.dll
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\refint\ZNet.Logging.NLog.dll
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ZNet.Logging.NLog.pdb
+D:\home\github\znet\src\ZNet.Logging.NLog\obj\Debug\net7.0\ref\ZNet.Logging.NLog.dll
